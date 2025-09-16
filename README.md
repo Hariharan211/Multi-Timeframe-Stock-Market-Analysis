@@ -5,7 +5,9 @@ Multi-Timeframe Stock Market Analysis (NIFTY50)
 🚀 Project Overview
 
 -Collected and processed historical Nifty50 stock data (2023–2025) to support quantitative trading & investment analysis.
+
 -Ideated and analyzed investment & trading strategy over two-year period to identify best entry and exit criteria to get returns better than Nifty 50 Index performance.
+
 -Optimized for KPIs Total Profit or Loss, Max Drawdown, Profitability Ratio, and Profit Factor on multi-timeframe datasets (5, 10, 15 minutes).
 
 🛠️ Tools & Tech
