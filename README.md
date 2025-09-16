@@ -4,7 +4,9 @@ Multi-Timeframe Stock Market Analysis (NIFTY50)
 
 🚀 Project Overview
 
-Collected and processed 5-minute OHLCV data for NIFTY50 stocks. Resampled into 10-minute and 15-minute datasets for multi-timeframe analysis. Implemented a trend-following strategy in Python, replicating Pine Script logic: Entry: Close crosses above EMA200 and EMA5 slope angle > 5°. Exit: Take-Profit +36% or Stop-Loss −16% (first touch intrabar). Evaluated performance against NIFTY50 index (buy & hold benchmark).
+-Collected and processed historical Nifty50 stock data (2023–2025) to support quantitative trading & investment analysis.
+-Ideated and analyzed investment & trading strategy over two-year period to identify best entry and exit criteria to get returns better than Nifty 50 Index performance.
+-Optimized for KPIs Total Profit or Loss, Max Drawdown, Profitability Ratio, and Profit Factor on multi-timeframe datasets (5, 10, 15 minutes).
 
 🛠️ Tools & Tech
 
